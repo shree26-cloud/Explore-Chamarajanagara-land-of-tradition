@@ -25,6 +25,8 @@ else if (place === "male mahadeshwara hills" || place === "mm hills") {
 window.location.href = "mmhills.html";
 
 }
+  else if(search.includes("gaganachukki"))
+window.location="gaganachukki.html";
 
 else {
 
