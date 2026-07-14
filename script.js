@@ -27,6 +27,9 @@ window.location.href = "mmhills.html";
 }
   else if(search.includes("gaganachukki") || search.includes("gagan"))
 window.location="gaganachukki.html";
+    
+    else if(search.includes("suvarnavathi") || search.includes("dam"))
+window.location="suvarnavathi.html";
 
 else {
 
