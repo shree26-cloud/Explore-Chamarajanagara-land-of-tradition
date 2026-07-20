@@ -30,7 +30,9 @@ window.location="gaganachukki.html";
     
     else if(search.includes("suvarnavathi") || search.includes("dam"))
 window.location="suvarnavathi.html";
+else if(search.includes("chamarajeshwara") || search.includes("temple"))
 
+window.location="chamarajeshwara.html";
 else {
 
 alert("Tourist place not found.");
