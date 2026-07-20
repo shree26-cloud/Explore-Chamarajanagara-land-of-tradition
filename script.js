@@ -36,6 +36,9 @@ window.location="chamarajeshwara.html";
   else if(search.includes("madhyaranga") || search.includes("mranga") || search.includes("ranganatha"))
 
 window.location="mranga.html";
+    else if(search.includes("barachukki") || search.includes("bara") || search.includes("waterfall"))
+
+window.location="bara.html";
 else {
 
 alert("Tourist place not found.");
