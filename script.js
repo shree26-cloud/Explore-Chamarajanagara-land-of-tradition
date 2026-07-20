@@ -33,6 +33,9 @@ window.location="suvarnavathi.html";
 else if(search.includes("chamarajeshwara") || search.includes("temple"))
 
 window.location="chamarajeshwara.html";
+  else if(search.includes("madhyaranga") || search.includes("mranga") || search.includes("ranganatha"))
+
+window.location="mranga.html";
 else {
 
 alert("Tourist place not found.");
